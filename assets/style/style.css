@@ -1,0 +1,25 @@
+.background-color {
+    background-color: #464343;
+}
+.link-menu{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.hero-section {
+    font-size: 20px;
+}
+.about-us {
+    margin-top: 150px;
+    text-align: center;
+}
+.contact-us {
+    background-color: white;
+}
+.contact-us-field {
+    width: 300px;
+}
+.description {
+    height: 150px;
+    width: 100%;
+}
